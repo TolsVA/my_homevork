@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">my_homevork</string>
+    <string name="text_person_name">text Person Name</string>
+    <string name="phone">Phone</string>
+    <string name="number">number</string>
+    <string name="text_password">text Password</string>
+    <string name="text_email_address">text Email Address</string>
+    <string name="second_layout">Second layout</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="home">Home</string>
 </resources>
